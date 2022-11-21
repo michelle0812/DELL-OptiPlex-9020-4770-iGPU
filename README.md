@@ -5,16 +5,16 @@
     <td>處理器</td><td>Intel(R) Core(TM) i7-4770 Haswell</td>
   </tr>
   <tr>
-    <td>主機板</td><td>DELL</td>
+    <td>主機板</td><td>DELL Q87</td>
   </tr>
   <tr>  
-    <td>記憶體</td><td>DDR4-2400 8GB *2</td>
+    <td>記憶體</td><td>DDR3-1600 4GB *2</td>
   </tr>
   <tr>
-    <td>iGPU</td><td>Intel UHD Graphics 620 1536MB</td>
+    <td>iGPU</td><td>Intel HD Graphics 4600 1536MB</td>
   </tr>
   <tr>  
-    <td>硬碟</td><td>ST1000LM 1000GB</td>
+    <td>硬碟</td><td>LITEONIT LCS-128M6S 128GBST1000LM 1000GB</td>
   </tr>
   <tr>
     <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
