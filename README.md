@@ -3,7 +3,7 @@
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202952438-aecde2bc-4fd2-408d-8efd-5b304493dc10.jpg"><br>
 <table>
   <tr>
-    <td>處理器</td><td>Intel(R) Core(TM) i7-3770 Ivy Bridge</td>
+    <td>處理器</td><td>Intel(R) Core(TM) i7-4770 Ivy Bridge</td>
   </tr>
   <tr>
     <td>主機板</td><td>DELL Q87</td>
