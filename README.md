@@ -6,7 +6,7 @@
     <td>處理器</td><td>Intel(R) Core(TM) i7-3770 Ivy Bridge</td>
   </tr>
   <tr>
-    <td>主機板</td><td>DELL Q77</td>
+    <td>主機板</td><td>DELL Q87</td>
   </tr>
   <tr>  
     <td>記憶體</td><td>DDR3-1600 4GB *2</td>
